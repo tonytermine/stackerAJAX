@@ -30,7 +30,7 @@
 	clear: both;
 }
 
-.inspiration { 
+.inspiration {
 	margin-left: 3em;
 }
 
@@ -43,4 +43,9 @@
 .error {
 	background-color: #F78181;
 	padding: 1em;
+}
+
+.photo {
+	min-height: 128px;
+	min-width: 128px;
 }
